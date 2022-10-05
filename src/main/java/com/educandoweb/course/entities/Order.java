@@ -2,7 +2,7 @@ package com.educandoweb.course.entities;
 
 import com.educandoweb.course.entities.enums.OrderStatus;
 import com.fasterxml.jackson.annotation.JsonFormat;
-import org.hibernate.procedure.spi.ParameterRegistrationImplementor;
+
 
 import javax.persistence.*;
 import java.io.Serializable;
